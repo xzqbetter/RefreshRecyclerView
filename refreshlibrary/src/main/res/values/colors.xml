@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_gray">#EAEDF0</color>         <!-- 背景-灰色 -->
+    <color name="textColor_gray">#8f9194</color>        <!-- 字体-灰色 -->
+
+</resources>
